@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Daisy</string>
+    <string name="conditions">
+        Dear users,
+        \n\nWe want to remind you that our application about medicinal plants aims to provide educational and general information on the subject. While we strive to provide accurate and reliable content, it is important to note that we are not responsible for the use you make of the information presented in the application.
+        \n\nMedicinal plants and their applications have different properties and effects on each person, and their use should be done with caution and under the supervision of qualified health professionals. We strongly recommend consulting a doctor, herbalist or expert in medicinal plants before using any plant for medicinal purposes.
+        \n\nOur application does not replace professional medical advice or constitute a medical diagnosis. Each individual is responsible for their own health and must make informed and responsible decisions about the use of medicinal plants.
+        \n\nWe want to promote the safety and well-being of our users, so we urge you to properly inform yourself, research and seek professional guidance before using any medicinal plant mentioned in our application.
+        \n\nIn addition, I am fully aware that by providing information or carrying out actions that the Daisy App team considers harmful or risky for the physical and psychological integrity of the community, I may be removed from Daisy App.
+        \n\nThank you for using our application and we hope you find value in the information provided. Remember that responsible knowledge and consultation with experts are fundamental to use medicinal plants safely and effectively.
+        \n\nSincerely,
+        \n\nThe Daisy App team
+    </string>
+    <string name="camera_permission_info_0">
+        The camera is necessary to use the recognition capabilities.
+        Please, grant the permission.
+    </string>
+    <string name="camera_permission_grantbutton_0">GRANT PERMISSION</string>
+    <string name="camera_permission_info_1">
+        It seems you have denied the camera permission, which is necessary.
+        In the settings screen, please grant the permission.
+    </string>
+    <string name="camera_permission_grantbutton_1">GO TO SETTINGS</string>
+</resources>
